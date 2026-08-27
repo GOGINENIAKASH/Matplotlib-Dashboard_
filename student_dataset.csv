@@ -1,0 +1,31 @@
+id,name,gender,age,dept,deptid,study_hours,attendance,assignments_completed,internal_marks,external_marks,total_marks,grade,backlogs,placement_status
+101,Arun,M,20,CSE,10,6,92,9,42,48,90,A,0,Placed
+102,Priya,F,21,ECE,20,5,88,8,39,44,83,A,0,Placed
+103,Ravi,M,20,CSE,10,3,75,7,32,38,70,B,1,Not Placed
+104,Sneha,F,21,EEE,30,7,95,10,45,49,94,A+,0,Placed
+105,Kiran,M,22,MECH,40,2,68,6,28,30,58,C,2,Not Placed
+106,Anjali,F,20,CSE,10,8,97,10,47,48,95,A+,0,Placed
+107,Vijay,M,21,ECE,20,4,82,8,35,40,75,B,0,Placed
+108,Divya,F,20,IT,50,6,90,9,41,45,86,A,0,Placed
+109,Rahul,M,22,CIVIL,60,3,72,6,30,35,65,B,1,Not Placed
+110,Meena,F,21,CSE,10,9,98,10,48,50,98,A+,0,Placed
+111,Suresh,M,20,EEE,30,4,80,7,34,36,70,B,1,Not Placed
+112,Kavya,F,22,IT,50,7,93,9,44,46,90,A,0,Placed
+113,Manoj,M,21,MECH,40,2,65,5,25,28,53,C,2,Not Placed
+114,Pooja,F,20,ECE,20,5,87,8,38,42,80,B,0,Placed
+115,Akash,M,22,CSE,10,8,94,10,46,47,93,A+,0,Placed
+116,Swathi,F,21,CIVIL,60,3,70,6,29,32,61,C,1,Not Placed
+117,Naveen,M,20,IT,50,6,89,9,40,44,84,A,0,Placed
+118,Lakshmi,F,22,EEE,30,5,85,8,37,41,78,B,0,Placed
+119,Rohit,M,21,CSE,10,4,78,7,33,37,70,B,1,Not Placed
+120,Harini,F,20,ECE,20,8,96,10,46,49,95,A+,0,Placed
+121,Prakash,M,22,MECH,40,3,74,7,31,34,65,B,1,Not Placed
+122,Nandini,F,21,IT,50,7,91,9,43,47,90,A,0,Placed
+123,Surya,M,20,CIVIL,60,4,79,7,34,35,69,B,1,Not Placed
+124,Aishwarya,F,22,CSE,10,9,99,10,49,50,99,A+,0,Placed
+125,Varun,M,21,EEE,30,5,84,8,36,40,76,B,0,Placed
+126,Keerthi,F,20,IT,50,6,92,9,42,45,87,A,0,Placed
+127,Ajay,M,22,ECE,20,3,71,6,29,33,62,C,1,Not Placed
+128,Deepika,F,21,CSE,10,8,95,10,47,49,96,A+,0,Placed
+129,Chandra,M,20,MECH,40,2,66,5,26,29,55,C,2,Not Placed
+130,Reshma,F,22,CIVIL,60,5,83,8,37,39,76,B,0,Placed
